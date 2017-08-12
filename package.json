@@ -1,5 +1,5 @@
 {
-  "name": "selectize",
+  "name": "sbx-selectize",
   "keywords": [
     "select",
     "ui",
@@ -11,13 +11,13 @@
     "tag"
   ],
   "main": "dist/js/selectize.js",
-  "description": "Selectize is a jQuery-based custom <select> UI control. Useful for tagging, contact lists, country selectors, etc.",
-  "version": "0.12.4",
+  "description": "This is a fork from selectize/selectize.js",
+  "version": "0.12.5",
   "author": "Brian Reavis <brian@thirdroute.com>",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/selectize/selectize.js.git"
+    "url": "git://github.com/sbxcloud/selectize.js.git"
   },
   "dependencies": {
     "jquery": "^1.7.0",
